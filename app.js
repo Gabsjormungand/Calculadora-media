@@ -20,3 +20,6 @@ console.log("A media do Kleber é")
 media = (nota1+nota2+nota3+nota4) / 4
 
 console.log(media)
+
+nome = prompt("informe seu nome")
+alert("Oi"+ nome + "sua media é" + media)
