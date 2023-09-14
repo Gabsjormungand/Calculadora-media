@@ -23,3 +23,4 @@ console.log(media)
 
 nome = prompt("informe seu nome")
 alert("Oi"+ nome + "sua media é" + media)
+
